@@ -1,4 +1,4 @@
-# hellRunner
+# Hell Runner
 
 A 2D infinite runner where you have to solve the clues in the dungeon to escape. Are are smart enough to escape?
 Currently being developed by me for a GameJam on itch.io.
